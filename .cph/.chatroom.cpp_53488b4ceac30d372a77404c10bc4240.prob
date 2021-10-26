@@ -1,0 +1,1 @@
+{"name":"Local: chatroom","url":"/home/shubhanshu/Desktop/cp/div2A/chatroom.cpp","tests":[{"id":1635092777441,"input":"ahhellllloou","output":"YES"},{"id":1635092839559,"input":"hlelo","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shubhanshu/Desktop/cp/div2A/chatroom.cpp","group":"local","local":true}

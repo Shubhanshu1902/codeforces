@@ -1,0 +1,1 @@
+{"name":"Local: twins","url":"/home/shubhanshu/Desktop/cp/div2A/twins.cpp","tests":[{"id":1635081923719,"input":"2\n3 3","output":"2"},{"id":1635081971003,"input":"3\n2 1 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shubhanshu/Desktop/cp/div2A/twins.cpp","group":"local","local":true}

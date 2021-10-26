@@ -1,0 +1,1 @@
+{"name":"Local: expression","url":"/home/shubhanshu/Desktop/cp/div2A/expression.cpp","tests":[{"id":1635259506035,"input":"1\n2 \n3","output":"9"},{"id":1635259610904,"input":"6\n7\n1","output":"48"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shubhanshu/Desktop/cp/div2A/expression.cpp","group":"local","local":true}
